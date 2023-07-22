@@ -4,6 +4,15 @@
 <h2>About Me</h2>
 <p>I am a cybersecurity enthusiast with a focus on network security, risk management, vulnerability assessments, and penetration testing. Currently seeking an internship in network security, SOC Center, or as a security analyst.</p>
 
+<h2>📊 Cybersecurity Projects</h2>
+<ul>
+  <li><b>Setting up SIEM in Azure (Sentinel)</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Setting up an Active Directory in Microsoft Server 2019</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Creating a File Integrity Monitor (FIM)</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Setting up a Vulnerability Management Lab</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Building a Simple REST API</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+</ul>
+
 <h2>📊 Risk Assessment Reports</h2>
 <ul>
   <li><b>Vulnerability Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
