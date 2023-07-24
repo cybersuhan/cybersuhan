@@ -6,7 +6,7 @@
 
 <h2>📊 Cybersecurity Projects</h2>
 <ul>
-  <li><b>Setting up SIEM in Microsoft Sentinal (Azure)</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Setting up SIEM in Microsoft Sentinal (Azure)</b>: <a href="https://github.com/cybersuhan/AzureSIEMLab">View on GitHub</a></li>
   <li><b>Setting up an Active Directory in Microsoft Server 2019</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
   <li><b>Vulnerability Management Project</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
   <li><b>Creating a File Integrity Monitor (FIM)</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
