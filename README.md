@@ -7,11 +7,9 @@
 <h2>📊 Cybersecurity Projects</h2>
 <ul>
   <li><b>Setting up SIEM in Microsoft Sentinal (Azure)</b>: <a href="https://github.com/cybersuhan/AzureSIEMLab">View on GitHub</a></li>
-  <li><b>Setting up an Active Directory in Microsoft Server 2019</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Setting up an Active Directory in Microsoft Server 2019</b>: <a href="https://github.com/cybersuhan/activedirectory">View on GitHub</a></li>
   <li><b>OpenVAS Vulnerability Management</b>: <a href="https://github.com/cybersuhan/vulnerabilitymanagement">View on GitHub</a></li>
   <li><b>Python File Integrity Monitor</b>: <a href="https://github.com/cybersuhan/fmi_python">View on GitHub</a></li>
-  <li><b>Setting up a Vulnerability Management Lab</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Building a Simple REST API</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
 </ul>
 
 <h2>📊 Risk Assessment Reports</h2>
