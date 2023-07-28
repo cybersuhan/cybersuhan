@@ -29,8 +29,6 @@
 <h2>🤝 Connect with Me</h2>
 <ul>
   <li><a href="http://www.linkedin.com/in/suhanb">LinkedIn</a></li>
-  <li><a href="https://github.com/cybersuhan">GitHub</a></li>
+  <li><a href="mailto:budhathoki.suhan@gmail.com">E-mail</a></li>
 </ul>
 
-<h2>🔍 Looking for Opportunities</h2>
-<p>I am currently seeking internship opportunities in network security, SOC Center, or as a security analyst. Feel free to reach out to me through Linkedin or GitHub.</p>
