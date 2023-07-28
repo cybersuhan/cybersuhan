@@ -19,12 +19,6 @@
   <li><b>Penetration Testing and Hacking Tools</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
 </ul>
 
-<h2>💻 Python Tools</h2>
-<ul>
-  <li><b>Vulnerability Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Risk Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-</ul>
-
 <h2>🏅 Certifications</h2>
 <ul>
   <li>Network Security Associate 1, 2, and 3 - Fortinet</li>
