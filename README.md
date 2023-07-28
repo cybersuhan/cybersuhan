@@ -25,14 +25,6 @@
 <ul>
   <li><b>Vulnerability Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
   <li><b>Risk Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Penetration Testing and Hacking Tools</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-</ul>
-
-<h2>💻 Data Visualizations Tools</h2>
-<ul>
-  <li><b>Vulnerability Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Risk Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Penetration Testing and Hacking Tools</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
 </ul>
 
 <h2>🏅 Certifications</h2>
