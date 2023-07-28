@@ -14,9 +14,8 @@
 
 <h2>📊 Risk Assessment Reports</h2>
 <ul>
-  <li><b>Vulnerability Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Risk Assessment Reports</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
-  <li><b>Penetration Testing and Hacking Tools</b>: <a href="[GitHub Repository URL]">View on GitHub</a></li>
+  <li><b>Boutique Hospital Risk Asssesment using Factor Analysis</b>: <a href="https://github.com/cybersuhan/BoutiqueRiskAssessment">View on GitHub</a></li>
+  <li><b>Cyber Risks at MM Corp - Executive Report</b>: <a href="https://github.com/cybersuhan/MMCorp_CyberRisks">View on GitHub</a></li>
 </ul>
 
 <h2>🏅 Certifications</h2>
