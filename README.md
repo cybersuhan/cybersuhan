@@ -24,6 +24,7 @@
   <li>Network Security Associate 1, 2, and 3 - Fortinet</li>
   <li>Certified in Cybersecurity - (ISC)²</li>
   <li>Working towards SSCP, Associate of (ISC)²</li>
+  <li>Working towards CompTIA Security+</li>
 </ul>
 
 <h2>🤝 Connect with Me</h2>
