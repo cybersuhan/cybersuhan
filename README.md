@@ -1,6 +1,4 @@
 <h1>Hi, I'm Suhan!</h1>
-<p>Cybersecurity Graduate Student</p>
-
 <h2>About Me</h2>
 <p>I am a motivated graduate student with a strong background in Information Technology and Cybersecurity, I am actively seeking an internship position in cybersecurity My knowledge lies in vulnerability management, network security, and I possess professional skills in critical thinking, project management, and communication. I hold a BS in Information Technology and am currently pursuing my MS in Information Technology with a concentration in Cybersecurity, set to graduate in December 2023. I stay informed about the latest cybersecurity trends and tools through various projects, labs, and certifications.</p>
 <p>I am eager to join a company that offers growth opportunities in Cybersecurity, where I can apply my knowledge to protect organizations' data and systems from malicious attacks. With a blend of technical and security knowledge, I am confident in making a positive contribution to any organization's success. Please feel free to get in touch with me via email at budhathoki.suhan@gmail.com. I look forward to connecting with you!</p>
