@@ -19,6 +19,7 @@
 
 <h2>🏅 Certifications</h2>
 <ul>
+  <li>Google Cybersecurity Professional</li>
   <li>Network Security Associate 1, 2, and 3 - Fortinet</li>
   <li>Certified in Cybersecurity - (ISC)²</li>
   <li>Working towards SSCP, Associate of (ISC)²</li>
